@@ -1,7 +1,9 @@
 # typing dummy for MicroPython and CircuitPython
 
-This is a typing package dummy for writing code that also includes type hints in MicroPython/CircuitPython.
-Please put typing.py in the root directory of your code directory on MCU.
+You want to write code that includes type hints in MicroPython/CircuitPython as well.
+
+This is a dummy of the typing package for MicroPython/CircuitPython.
+Please put typing.py in the root directory of your microcontroller.
 
 ## type alias
 
