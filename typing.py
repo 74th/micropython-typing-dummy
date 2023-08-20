@@ -15,6 +15,7 @@ Final = list
 Annotated = list
 Generic = list
 TypeVar = __do_nothing
+TypeAlias = str
 AnyStr = None
 Protocol = int
 runtime_checkable = __do_nothing
